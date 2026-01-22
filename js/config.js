@@ -27,6 +27,11 @@ const API_SITES = {
         name: '空内容测试源',
         adult: true
     }
+    aiqiyi: {
+        api: 'https://iqiyizyapi.com/api.php/provide/vod',
+        name: '爱奇艺',
+        adult: false
+    }
     //ARCHIVE https://telegra.ph/APIs-08-12
 };
 
